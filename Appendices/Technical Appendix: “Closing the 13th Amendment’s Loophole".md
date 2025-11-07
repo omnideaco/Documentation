@@ -1,3 +1,5 @@
+# Technical Appendix: “Closing the 13th Amendment’s Loophole"
+
 _This appendix accompanies “Closing the 13th Amendment’s Slavery Loophole” Blueprint as the authoritative source spine. It privileges primary law, official data, and peer‑reviewed scholarship, supported by leading NGOs and investigative reporting where appropriate._
 
 ---
