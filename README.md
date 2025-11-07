@@ -55,6 +55,6 @@ These are living documents. Contributions, corrections, and updates are welcome 
 
 Omnidea develops constitutional and legislative frameworks for systemic transformation—work that treats dignity as axiomatic, change as achievable, and incremental reform as the pathway to fundamental justice.
 
-**Website:** [omnidea.co](https://www.omnidea.co)
-**Contact:** [Aericus](https://substack.com/@aericus)
+- **Website:** [omnidea.co](https://www.omnidea.co)
+- **Contact:** [Aericus](https://substack.com/@aericus)
 
