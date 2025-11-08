@@ -4,12 +4,6 @@ _This appendix accompanies "Ending the 13th Amendment’s Exception Clause” Bl
 
 ---
 
-_Researched with AI assistance—which means this document improves as readers verify and correct. Find an error? Let me know. This is living documentation._
-
-[Message Aericus](https://substack.com/@aericus)
-
----
-
 ## I. Primary Legal Texts
 
 **1. U.S. Constitution – Thirteenth Amendment**
@@ -218,3 +212,9 @@ _These support a reading of the amended text that empowers Congress to regulate 
 **3. New Textualism & the Thirteenth Amendment**
 
 - Leah Litman, “[New Textualism and the Thirteenth Amendment](https://repository.law.umich.edu/articles/2353/)” (Michigan Law, 2019).
+
+---
+
+_Researched with AI assistance—which means this document improves as readers verify and correct. Find an error? Let me know. This is living documentation._
+
+[Message Aericus](https://substack.com/@aericus)
