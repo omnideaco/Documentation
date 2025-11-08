@@ -1,3 +1,5 @@
+# Technical Appendix: "Ending the 13th Amendment's Exception Clause"
+
 _This appendix accompanies "Ending the 13th Amendment’s Exception Clause” Blueprint as the authoritative source spine. It privileges primary law, official data, and peer‑reviewed scholarship, supported by leading NGOs and investigative reporting where appropriate._
 
 ---
